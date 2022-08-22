@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"menu",
+				"menu-lateral__link"
+			],
+			[
+				"de",
+				"desenhaBandeiraAlemanha"
+			],
+			[
+				"ingred",
+				"ingredientes"
+			],
+			[
+				"ingr",
+				"ingredientes"
+			],
+			[
+				"sorte",
+				"sorteia"
+			],
+			[
+				"sor",
+				"sorteiaNumeros"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"toal",
+				"totalIdades"
+			],
+			[
+				"total",
+				"totalFamiliares"
+			],
+			[
+				"lo",
+				"loginInformado"
+			],
+			[
+				"sen",
+				"senhaInformada"
+			],
+			[
+				"log",
+				"loginInformado"
+			],
+			[
+				"logi",
+				"loginCadastrado"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1809,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11572,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/CSS - Flexbox e Grid (site)/flex-e-grid-main/flex-e-grid-main/assets/css/estilo.css",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/CSS - Flexbox e Grid (site)/flex-e-grid-main/flex-e-grid-main/README.md",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/CSS - Flexbox e Grid (site)/flex-e-grid-main/flex-e-grid-main/index.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/HTML e CSS - Alura/style.css",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/CSS - Flexbox e Grid/flex-e-grid-main/flex-e-grid-main/README.md",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/CSS - Flexbox e Grid/flex-e-grid-main/flex-e-grid-main/index.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/CSS - Flexbox e Grid/flex-e-grid-main/flex-e-grid-main/assets/css/estilo.css",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/HTML e CSS - Alura/style-home.css",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/HTML e CSS - Alura/contato.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/HTML e CSS - Alura/produtos.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/HTML e CSS - Alura/index.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/HTML e CSS - Alura/produtos.css",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/HTML e CSS - Alura/reset.css",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/HTML e CSS - Alura/dicas.css",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/style.css",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/index.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/trocando_bandeira.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/movimenta_bolinha.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/o_pulso_ainda_pulsa.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/bolinha_maior.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/vai_e_volta.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/acertando_o_alvo.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/desenhando_com_mouse.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/programa3.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/programa2.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/bandeira_brasil.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/enquadro.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/creeper.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Logica de prog. II Alura/programa.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Prog. em C/programação.c",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/habilitação.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/teste_de_c.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/somente_números.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/Média.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/acumulando_valores.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/gilberto.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/adivinha_mais.html.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/alert_nome_digitado.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/estrelas.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/interação_giovanna.html.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/parseFloat.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/interagindo_com_usuário.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/media_dos_eventos.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/media_idades_familiares.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/tela_de_login.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/ano_copa.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/copa.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/20_a_0.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/todos_os_numeros.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/numero_pares2.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/numero30_40_exceto33_37.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/repetir_enquanto.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/aluno_exagerado2.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/js-html/index.js",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/js-html/index.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/media.c",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/numeros_pares.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/aluno_exagerado.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/jogo_adivin.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/erro_braga.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/melhorando_imc.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/futebol.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/insistindo_convidado.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/total_de_convidados.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/interagindo_com_usuário2.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/agora_eu_quero_ver.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/o_resultado_é.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/teste.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/qual_resultado.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/calcula_imc2.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/calcula_imc.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/véspera_de_carnaval.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/mostra_idade2.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/o_problema_das_gerações.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/imc.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/true.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/soma_dois_número.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/primeiro_teste.html",
+		"/C/Users/Gabriel/OneDrive/Área de Trabalho/Lógica/para_giovanninha.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
